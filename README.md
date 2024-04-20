@@ -16,7 +16,7 @@ Project is created with:
 * SCSS
 
 ## Setup
-You can see this project on-line using link: https://szymonsauer.github.io/flexbox-task/
+You can see this project on-line using link: https://szymonsauer.github.io/scss-task/
 To run this project locally download the code and run in the Visual Studio Code program. 
 
 ## Status
